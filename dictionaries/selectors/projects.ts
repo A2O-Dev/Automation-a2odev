@@ -12,9 +12,9 @@ export const projects = {
 
   imgCasting             :'img[alt="blog-1"]',
   imgApp                 :'img[alt="vetimages_project"]',
-  imgRealState           :'img[alt="12_alte_project-1024x664-1"]',
+  imgRealState           :'img[alt="web-development-mobile3-A2ODev"]',
 
-  arrowRightCasting      :'[id="n2-ss-9-arrow-next"]',
+  arrowRightCasting      :'[id="n2-ss-9-arrow-next"]', 
   arrowLeftCasting       :'[id="n2-ss-9-arrow-previous"]',
   closeButtonCasting     :'//*[@id="premium-modal-07734af"]/div/div[1]/div/button',
   arrowRightImages       :'[id="n2-ss-10-arrow-next"]',
